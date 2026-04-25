@@ -1,7 +1,7 @@
 # foodhub-data-analysis
 Exploratory data analysis and business insights from FoodHub dataset
 
-# 📊 FoodHub Data Analysis
+# 📊 FoodHub Data Analysis – Business Insights 
 
 ## 📌 Overview
 
